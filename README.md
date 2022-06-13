@@ -172,5 +172,5 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 - `Feel free to contribute 😀`
 
   
- 
+ [![name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
  
