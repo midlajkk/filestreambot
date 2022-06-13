@@ -65,7 +65,7 @@
 
 Press the below button to  deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midlajkk/filestreambot.git)
   
   
  <p><b>Available commands and features:</b>
